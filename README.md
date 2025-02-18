@@ -8,8 +8,10 @@ The repository consists of four Matlab scripts:
 
 `FHN_continuous_avg_HFS.m` consists code for the reproduction of Fig. 6 in Ref. [1], which demonstrates the inhibition of pulse propagation in continuous neuron under high-frequency stimulation (HFS).
 
-`myelinated_FHN_averaged.m` is modeling dynamics of pulse propagation in myelinated neuron. Here averaged equations is solved.
+`myelinated_FHN_averaged.m` is modeling dynamics of pulse propagation in myelinated neuron. Here averaged equations is solved. For the details se Ref. [2].
 
-`myelinated_FHN_HFS.m` is modeling dynamics of pulse propagation in myelinated neuron under HFS.
+`myelinated_FHN_HFS.m` is modeling dynamics of pulse propagation in myelinated neuron under HFS. For the details se Ref. [2].
+
+`myelinated_HFS_avg_comparrison.m` reproduce Fig. 1 in Ref. [2].
 
 
